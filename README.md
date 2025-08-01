@@ -29,20 +29,17 @@ Recharts (for data visualization)
 🚀 How to Clone and Run This Project
 Anyone can set up and run this project locally in a few easy steps:
 
-1️⃣ Clone the Repository
+1️⃣ Clone the Repository -->
 git clone https://github.com/Rajsingh89/student-expense-tracker.git
 
-2️⃣ Navigate to the Project Folder
+2️⃣ Navigate to the Project Folder -->
 cd student-expense-main
 
 3️⃣ Install Dependencies
 Make sure you have Node.js and npm (Node Package Manager) installed (Node v16+ recommended).
 
-And then write in terminal 
+And then write in terminal -->
 npm install
 
-4️⃣ Start the Development Server
-npm run dev
-4️⃣ Start the Development Server
-text
+4️⃣ Start the Development Server -->
 npm run dev
